@@ -26,7 +26,7 @@
     {
         "id": 21,
         "title": "방울토마토 해바라기 봉선화 바질 강낭콩 씨앗키트 저면관수",
-        "imgUrl": "/kit/bottomirrigation/bottomirrigation_01.jpg",
+        "imgUrl": "/img/kit/bottomirrigation/bottomirrigation_01.jpg",
         "kind": "kit",
         "price": 6000,
         "content": "🌱 식목일 저면관수 재배키트"
@@ -34,7 +34,7 @@
     {
         "id": 22,
         "title": "바질 방울토마토 씨앗 홈가드닝 키트",
-        "imgUrl": "/kit/basiltomato/basiltomato_01.jpg",
+        "imgUrl": "/img/kit/basiltomato/basiltomato_01.jpg",
         "kind": "kit",
         "price": 22800,
         "content": "💚 토분+씨앗+배양토+이름표+분무기"
@@ -74,7 +74,7 @@
     {
         "id": 27,
         "title": "고수 미니당근 시금치 키우기 그로우스프",
-        "imgUrl": "/kit/growsoup/growsoup_01.jpg",
+        "imgUrl": "/img/kit/growsoup/growsoup_01.jpg",
         "kind": "kit",
         "price": 7800,
         "content": "⭐ 당근, 쪽파, 고수, 시금치 씨앗 키트"
