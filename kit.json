@@ -1,171 +1,180 @@
 [
-    {
-        "id": 18,
-        "title": "친환경식물키트 에코컵 씨드볼 키우기",
-        "imgUrl": "/img/kit/seedball/seedball_01.jpg",
-        "kind": "kit",
-        "price": 5600,
-        "content": "🌱 집에서 키우는 씨드볼 키트"
-    },    
-    {
-        "id": 19,
-        "title": "마이리움 어린이집 식목일키트 씨앗키우기 마이가든",
-        "imgUrl": "/img/kit/mygarden/mygarden_01.jpg",
-        "kind": "kit",
-        "price": 5200,
-        "content": "💖 방울토마토 바질 강낭콩 해바라기 봉선화"
-    },    
-    {
-        "id": 20,
-        "title": "방울토마토 상추 씨앗 키우기 텃밭키트",
-        "imgUrl": "/img/kit/vegetablegarden/vegetablegarden_01.jpg",
-        "kind": "kit",
-        "price": 10600,
-        "content": "🌿 상추, 방울토마토 키우기 키트"
-    },    
-    {
-        "id": 21,
-        "title": "방울토마토 해바라기 봉선화 바질 강낭콩 씨앗키트 저면관수",
-        "imgUrl": "/img/kit/bottomirrigation/bottomirrigation_01.jpg",
-        "kind": "kit",
-        "price": 6000,
-        "content": "🌱 식목일 저면관수 재배키트"
-    },    
-    {
-        "id": 22,
-        "title": "바질 방울토마토 씨앗 홈가드닝 키트",
-        "imgUrl": "/img/kit/basiltomato/basiltomato_01.jpg",
-        "kind": "kit",
-        "price": 22800,
-        "content": "💚 토분+씨앗+배양토+이름표+분무기"
-    },    
-    {
-        "id": 23,
-        "title": "방울토마토 바질 해바라기 씨앗 키우기 1+1",
-        "imgUrl": "/img/kit/growingseeds/growingseeds_01.jpg",
-        "kind": "kit",
-        "price": 11600,
-        "content": ""
-    },    
-    {
-        "id": 24,
-        "title": "미미 식물키트",
-        "imgUrl": "/img/kit/mimi/mimi_01.jpg",
-        "kind": "kit",
-        "price": 5500,
-        "content": ""
-    },    
-    {
-        "id": 25,
-        "title": "고수 바질 루꼴라 모둠쌈 래디시 쑥갓 부추 모둠쌈 키친가든",
-        "imgUrl": "/img/kit/ssam/ssam_01.jpg",
-        "kind": "kit",
-        "price": 12800,
-        "content": "💚 내손으로 키우는 채소키트"
-    },    
-    {
-        "id": 26,
-        "title": "[팜팜농장] 집에서 씨앗재배 모종만들기 식물키트",
-        "imgUrl": "/img/kit/makingseedlings/makingseedlings_01.jpg",
-        "kind": "kit",
-        "price": 6000,
-        "content": "💛 내가키워 내가먹는 채소키트"
-    },    
-    {
-        "id": 27,
-        "title": "고수 미니당근 시금치 키우기 그로우스프",
-        "imgUrl": "/img/kit/growsoup/growsoup_01.jpg",
-        "kind": "kit",
-        "price": 7800,
-        "content": "⭐ 당근, 쪽파, 고수, 시금치 씨앗 키트"
-    },    
-    {
-        "id": 28,
-        "title": "선인장 씨앗 키우기 칵투스",
-        "imgUrl": "/img/kit/cactus/cactus_01.jpg",
-        "kind": "kit",
-        "price": 10900,
-        "content": "🌵 집에서 선인장을 키운다고?"
-    },    
-    {
-        "id": 29,
-        "title": "그림종이봉투 해바라기 봉선화 방울토마토 나팔꽃 패랭이꽃 씨드볼",
-        "imgUrl": "/img/kit/picturepaperbag/picturepaperbag_01.jpg",
-        "kind": "kit",
-        "price": 3300,
-        "content": ""
-    },    
-    {
-        "id": 30,
-        "title": "방울토마토 바질 해바라기 강낭콩 씨앗 키우기 손잡이가든",
-        "imgUrl": "/img/kit/handlegarden/handlegarden_01.jpg",
-        "kind": "kit",
-        "price": 6100,
-        "content": "💚 마이리움 손잡이가든"
-    },    
-    {
-        "id": 31,
-        "title": "마이리움 허브 레몬밤 씨앗 키우기",
-        "imgUrl": "/img/kit/lemonbalm/lemonbalm_01.jpg",
-        "kind": "kit",
-        "price": 8900,
-        "content": "💚 집에서 키우는 허브"
-    },    
-    {
-        "id": 32,
-        "title": "아이들과 씨앗으로 모종키우기 팜팜농장 1개+1개",
-        "imgUrl": "/img/kit/makingseedlings/makingseedlings_01.jpg",
-        "kind": "kit",
-        "price": 12400,
-        "content": "💚 1+1 식물키트"
-    },    
-    {
-        "id": 33,
-        "title": "우리집 텃밭 홈가드닝 세트",
-        "imgUrl": "/img/kit/handlegarden/handlegarden_01.jpg",
-        "kind": "kit",
-        "price": 12600,
-        "content": "💚 우리집 채소텃밭"
-    },    
-    {
-        "id": 34,
-        "title": "집에서 키우는 마이리움 꽃씨키트 꽃집사",
-        "imgUrl": "/img/kit/florist/florist_01.jpg",
-        "kind": "kit",
-        "price": 8800,
-        "content": "💛 집에서 키우는 꽃씨 키트"
-    },    
-    {
-        "id": 35,
-        "title": "마이리움 콩나물재배기 + 콩나물콩100g",
-        "imgUrl": "/img/kit/beansprouts/beansprouts_01.jpg",
-        "kind": "kit",
-        "price": 13800,
-        "content": "💛 사계절 키우기 좋은 콩나물"
-    },    
-    {
-        "id": 36,
-        "title": "미니딸기 미니장미 비올라 키우기 하나애니멀",
-        "imgUrl": "/img/kit/hanaanimal/hanaanimal_01.jpg",
-        "kind": "kit",
-        "price": 15900,
-        "content": "💚 예쁜화분에 예쁜 꽃키우기"
-    },    
-    {
-        "id": 37,
-        "title": "집에서 식물키우기 씨앗키트 투톤사각화분",
-        "imgUrl": "/img/kit/squarepot/squarepot_01.jpg",
-        "kind": "kit",
-        "price": 7000,
-        "content": "🍅 당일출고 🌻"
-    }
-    ,    
-    {
-        "id": 38,
-        "title": "크리스마스선물 세잎클로버 미니딸기 키트 츄폰",
-        "imgUrl": "/img/kit/ministraberry/ministraberry_01.jpg",
-        "kind": "kit",
-        "price": 15800,
-        "content": "✨ 친구, 연인 선물 추천!"
-    }
+  {
+    "id": 18,
+    "title": "친환경식물키트 에코컵 씨드볼 키우기",
+    "imgUrl": [
+      "/img/kit/seedball/seedball_01.jpg",
+      "/img/kit/seedball/seedball_02.jpg",
+      "/img/kit/seedball/seedball_03.jpg",
+      "/img/kit/seedball/seedball_04.jpg",
+      "/img/kit/seedball/seedball_05.jpg",
+      "/img/kit/seedball/seedball_06.jpg",
+      "/img/kit/seedball/seedball_07.jpg",
+      "/img/kit/seedball/seedball_08.jpg",
+      "/img/kit/seedball/seedball_09.jpg"
+    ],
+    "kind": "kit",
+    "price": 5600,
+    "content": "🌱 집에서 키우는 씨드볼 키트"
+  },
+  {
+    "id": 19,
+    "title": "마이리움 어린이집 식목일키트 씨앗키우기 마이가든",
+    "imgUrl": "/img/kit/mygarden/mygarden_01.jpg",
+    "kind": "kit",
+    "price": 5200,
+    "content": "💖 방울토마토 바질 강낭콩 해바라기 봉선화"
+  },
+  {
+    "id": 20,
+    "title": "방울토마토 상추 씨앗 키우기 텃밭키트",
+    "imgUrl": "/img/kit/vegetablegarden/vegetablegarden_01.jpg",
+    "kind": "kit",
+    "price": 10600,
+    "content": "🌿 상추, 방울토마토 키우기 키트"
+  },
+  {
+    "id": 21,
+    "title": "방울토마토 해바라기 봉선화 바질 강낭콩 씨앗키트 저면관수",
+    "imgUrl": "/img/kit/bottomirrigation/bottomirrigation_01.jpg",
+    "kind": "kit",
+    "price": 6000,
+    "content": "🌱 식목일 저면관수 재배키트"
+  },
+  {
+    "id": 22,
+    "title": "바질 방울토마토 씨앗 홈가드닝 키트",
+    "imgUrl": "/img/kit/basiltomato/basiltomato_01.jpg",
+    "kind": "kit",
+    "price": 22800,
+    "content": "💚 토분+씨앗+배양토+이름표+분무기"
+  },
+  {
+    "id": 23,
+    "title": "방울토마토 바질 해바라기 씨앗 키우기 1+1",
+    "imgUrl": "/img/kit/growingseeds/growingseeds_01.jpg",
+    "kind": "kit",
+    "price": 11600,
+    "content": ""
+  },
+  {
+    "id": 24,
+    "title": "미미 식물키트",
+    "imgUrl": "/img/kit/mimi/mimi_01.jpg",
+    "kind": "kit",
+    "price": 5500,
+    "content": ""
+  },
+  {
+    "id": 25,
+    "title": "고수 바질 루꼴라 모둠쌈 래디시 쑥갓 부추 모둠쌈 키친가든",
+    "imgUrl": "/img/kit/ssam/ssam_01.jpg",
+    "kind": "kit",
+    "price": 12800,
+    "content": "💚 내손으로 키우는 채소키트"
+  },
+  {
+    "id": 26,
+    "title": "[팜팜농장] 집에서 씨앗재배 모종만들기 식물키트",
+    "imgUrl": "/img/kit/makingseedlings/makingseedlings_01.jpg",
+    "kind": "kit",
+    "price": 6000,
+    "content": "💛 내가키워 내가먹는 채소키트"
+  },
+  {
+    "id": 27,
+    "title": "고수 미니당근 시금치 키우기 그로우스프",
+    "imgUrl": "/img/kit/growsoup/growsoup_01.jpg",
+    "kind": "kit",
+    "price": 7800,
+    "content": "⭐ 당근, 쪽파, 고수, 시금치 씨앗 키트"
+  },
+  {
+    "id": 28,
+    "title": "선인장 씨앗 키우기 칵투스",
+    "imgUrl": "/img/kit/cactus/cactus_01.jpg",
+    "kind": "kit",
+    "price": 10900,
+    "content": "🌵 집에서 선인장을 키운다고?"
+  },
+  {
+    "id": 29,
+    "title": "그림종이봉투 해바라기 봉선화 방울토마토 나팔꽃 패랭이꽃 씨드볼",
+    "imgUrl": "/img/kit/picturepaperbag/picturepaperbag_01.jpg",
+    "kind": "kit",
+    "price": 3300,
+    "content": ""
+  },
+  {
+    "id": 30,
+    "title": "방울토마토 바질 해바라기 강낭콩 씨앗 키우기 손잡이가든",
+    "imgUrl": "/img/kit/handlegarden/handlegarden_01.jpg",
+    "kind": "kit",
+    "price": 6100,
+    "content": "💚 마이리움 손잡이가든"
+  },
+  {
+    "id": 31,
+    "title": "마이리움 허브 레몬밤 씨앗 키우기",
+    "imgUrl": "/img/kit/lemonbalm/lemonbalm_01.jpg",
+    "kind": "kit",
+    "price": 8900,
+    "content": "💚 집에서 키우는 허브"
+  },
+  {
+    "id": 32,
+    "title": "아이들과 씨앗으로 모종키우기 팜팜농장 1개+1개",
+    "imgUrl": "/img/kit/makingseedlings/makingseedlings_01.jpg",
+    "kind": "kit",
+    "price": 12400,
+    "content": "💚 1+1 식물키트"
+  },
+  {
+    "id": 33,
+    "title": "우리집 텃밭 홈가드닝 세트",
+    "imgUrl": "/img/kit/handlegarden/handlegarden_01.jpg",
+    "kind": "kit",
+    "price": 12600,
+    "content": "💚 우리집 채소텃밭"
+  },
+  {
+    "id": 34,
+    "title": "집에서 키우는 마이리움 꽃씨키트 꽃집사",
+    "imgUrl": "/img/kit/florist/florist_01.jpg",
+    "kind": "kit",
+    "price": 8800,
+    "content": "💛 집에서 키우는 꽃씨 키트"
+  },
+  {
+    "id": 35,
+    "title": "마이리움 콩나물재배기 + 콩나물콩100g",
+    "imgUrl": "/img/kit/beansprouts/beansprouts_01.jpg",
+    "kind": "kit",
+    "price": 13800,
+    "content": "💛 사계절 키우기 좋은 콩나물"
+  },
+  {
+    "id": 36,
+    "title": "미니딸기 미니장미 비올라 키우기 하나애니멀",
+    "imgUrl": "/img/kit/hanaanimal/hanaanimal_01.jpg",
+    "kind": "kit",
+    "price": 15900,
+    "content": "💚 예쁜화분에 예쁜 꽃키우기"
+  },
+  {
+    "id": 37,
+    "title": "집에서 식물키우기 씨앗키트 투톤사각화분",
+    "imgUrl": "/img/kit/squarepot/squarepot_01.jpg",
+    "kind": "kit",
+    "price": 7000,
+    "content": "🍅 당일출고 🌻"
+  },
+  {
+    "id": 38,
+    "title": "크리스마스선물 세잎클로버 미니딸기 키트 츄폰",
+    "imgUrl": "/img/kit/ministraberry/ministraberry_01.jpg",
+    "kind": "kit",
+    "price": 15800,
+    "content": "✨ 친구, 연인 선물 추천!"
+  }
 ]
