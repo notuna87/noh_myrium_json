@@ -11,7 +11,9 @@
   ],
     "kind": "timesale",
     "price": 5900,
-    "content": "🤎 나무로 만들어진 친환경 화분"
+    "content": "🤎 나무로 만들어진 친환경 화분",
+    "detail" : "/img/gardening/flowerpot/flowerpot_detail.jpg"
+
   },
   {
     "id": 100,

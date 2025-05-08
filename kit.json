@@ -15,7 +15,8 @@
     ],
     "kind": "kit",
     "price": 5600,
-    "content": "🌱 집에서 키우는 씨드볼 키트"
+    "content": "🌱 집에서 키우는 씨드볼 키트",
+    "detail" : "/img/kit/seedball/seedball_detail.jpg"
   },
   {
     "id": 19,
