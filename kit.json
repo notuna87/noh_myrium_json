@@ -38,7 +38,8 @@
 ],
     "kind": "kit",
     "price": 5200,
-    "content": "💖 방울토마토 바질 강낭콩 해바라기 봉선화"
+    "content": "💖 방울토마토 바질 강낭콩 해바라기 봉선화",
+    "detail" :"/img/kit/mygarden/mygarden_detail.jpg"
   },
   {
     "id": 20,
@@ -57,7 +58,8 @@
 ],
     "kind": "kit",
     "price": 10600,
-    "content": "🌿 상추, 방울토마토 키우기 키트"
+    "content": "🌿 상추, 방울토마토 키우기 키트",
+    "detail" : "/img/kit/vegetablegarden/vegetablegarden_detail.jpg"
   },
   {
     "id": 21,
@@ -76,7 +78,8 @@
 ],
     "kind": "kit",
     "price": 6000,
-    "content": "🌱 식목일 저면관수 재배키트"
+    "content": "🌱 식목일 저면관수 재배키트",
+    "detail" : "/img/kit/bottomirrigation/bottomirrigation_detail.jpg"
   },
   {
     "id": 22,
@@ -95,7 +98,8 @@
 ],
     "kind": "kit",
     "price": 22800,
-    "content": "💚 토분+씨앗+배양토+이름표+분무기"
+    "content": "💚 토분+씨앗+배양토+이름표+분무기",
+    "detail" : "/img/kit/basiltomato/basiltomato_detail.jpg"
   },
   {
     "id": 23,
@@ -114,7 +118,8 @@
 ],
     "kind": "kit",
     "price": 11600,
-    "content": ""
+    "content": "",
+    "detail" : "/img/kit/growingseeds/growingseeds_detail.jpg"
   },
   {
     "id": 24,
@@ -133,7 +138,8 @@
 ],
     "kind": "kit",
     "price": 5500,
-    "content": ""
+    "content": "",
+    "detail" : "/img/kit/mimi/mimi_detail.jpg"
   },
   {
     "id": 25,
@@ -151,7 +157,8 @@
 ],
     "kind": "kit",
     "price": 12800,
-    "content": "💚 내손으로 키우는 채소키트"
+    "content": "💚 내손으로 키우는 채소키트",
+    "detail" : "/img/kit/ssam/ssam_detail.jpg"
   },
   {
     "id": 26,
@@ -170,7 +177,8 @@
 ],
     "kind": "kit",
     "price": 6000,
-    "content": "💛 내가키워 내가먹는 채소키트"
+    "content": "💛 내가키워 내가먹는 채소키트",
+    "detail" : "/img/kit/makingseedlings/makingseedlings_detail.jpg"
   },
   {
     "id": 27,
@@ -189,7 +197,8 @@
     ],
     "kind": "kit",
     "price": 7800,
-    "content": "⭐ 당근, 쪽파, 고수, 시금치 씨앗 키트"
+    "content": "⭐ 당근, 쪽파, 고수, 시금치 씨앗 키트",
+    "detail" : "/img/kit/growsoup/growsoup_detail.jpg"
   },
   {
     "id": 28,
@@ -204,7 +213,8 @@
 ],
     "kind": "kit",
     "price": 10900,
-    "content": "🌵 집에서 선인장을 키운다고?"
+    "content": "🌵 집에서 선인장을 키운다고?",
+    "detail" : "/img/kit/cactus/cactus_detail.jpg"
   },
   {
     "id": 29,
@@ -222,7 +232,8 @@
 ],
     "kind": "kit",
     "price": 3300,
-    "content": ""
+    "content": "",
+    "detail" : "/img/kit/picturepaperbag/picturepaperbag_detail.jpg"
   },
   {
     "id": 30,
@@ -244,7 +255,8 @@
 ],
     "kind": "kit",
     "price": 6100,
-    "content": "💚 마이리움 손잡이가든"
+    "content": "💚 마이리움 손잡이가든",
+    "detail" : "/img/kit/handlegarden/handlegarden_detail.jpg"
   },
   {
     "id": 31,
@@ -263,7 +275,8 @@
 ],
     "kind": "kit",
     "price": 8900,
-    "content": "💚 집에서 키우는 허브"
+    "content": "💚 집에서 키우는 허브",
+    "detail" : "/img/kit/lemonbalm/lemonbalm_detail.jpg"
   },
   {
     "id": 32,
@@ -282,7 +295,8 @@
 ],
     "kind": "kit",
     "price": 12400,
-    "content": "💚 1+1 식물키트"
+    "content": "💚 1+1 식물키트",
+    "detail" : "/img/kit/makingseedlings/makingseedlings_detail.jpg"
   },
   {
     "id": 33,
@@ -301,7 +315,8 @@
 ],
     "kind": "kit",
     "price": 12600,
-    "content": "💚 우리집 채소텃밭"
+    "content": "💚 우리집 채소텃밭",
+    "detail" : "/img/kit/handlegarden/handlegarden_detail.jpg"
   },
   {
     "id": 34,
@@ -320,7 +335,8 @@
 ],
     "kind": "kit",
     "price": 8800,
-    "content": "💛 집에서 키우는 꽃씨 키트"
+    "content": "💛 집에서 키우는 꽃씨 키트",
+    "detail" : "/img/kit/florist/florist_detail.jpg"
   },
   {
     "id": 35,
@@ -339,7 +355,8 @@
 ],
     "kind": "kit",
     "price": 13800,
-    "content": "💛 사계절 키우기 좋은 콩나물"
+    "content": "💛 사계절 키우기 좋은 콩나물",
+    "detail" : "/img/kit/beansprouts/beansprouts_detail.jpg"
   },
   {
     "id": 36,
@@ -358,7 +375,8 @@
 ],
     "kind": "kit",
     "price": 15900,
-    "content": "💚 예쁜화분에 예쁜 꽃키우기"
+    "content": "💚 예쁜화분에 예쁜 꽃키우기",
+    "detail" : "/img/kit/hanaanimal/hanaanimal_detail.jpg"
   },
   {
     "id": 37,
@@ -377,7 +395,8 @@
 ],
     "kind": "kit",
     "price": 7000,
-    "content": "🍅 당일출고 🌻"
+    "content": "🍅 당일출고 🌻",
+    "detail" : "/img/kit/squarepot/squarepot_detail.jpg"
   },
   {
     "id": 38,
@@ -396,6 +415,7 @@
 ],
     "kind": "kit",
     "price": 15800,
-    "content": "✨ 친구, 연인 선물 추천!"
+    "content": "✨ 친구, 연인 선물 추천!",
+    "detail" : "/img/kit/ministraberry/ministraberry_detail.jpg"
   }
 ]

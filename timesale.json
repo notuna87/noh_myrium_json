@@ -32,7 +32,8 @@
   ],
     "kind": "timesale",
     "price": 10600,
-    "content": "🌿 상추, 방울토마토 키우기 키트"
+    "content": "🌿 상추, 방울토마토 키우기 키트",
+    "detail" : "/img/kit/vegetablegarden/vegetablegarden_detail.jpg"
   },
   {
     "id": 101,
@@ -51,7 +52,8 @@
   ],
     "kind": "timesale",
     "price": 22800,
-    "content": "💚 토분+씨앗+배양토+이름표+분무기"
+    "content": "💚 토분+씨앗+배양토+이름표+분무기",
+    "detail" : "/img/kit/basiltomato/basiltomato_detail.jpg"
   },
   {
     "id": 102,
@@ -70,7 +72,8 @@
   ],
     "kind": "timesale",
     "price": 13800,
-    "content": "💛 사계절 키우기 좋은 콩나물"
+    "content": "💛 사계절 키우기 좋은 콩나물",
+    "detail" : "/img/kit/beansprouts/beansprouts_detail.jpg"
   },
   {
     "id": 103,
@@ -85,7 +88,8 @@
   ],
     "kind": "timesale",
     "price": 10900,
-    "content": "🌵 집에서 선인장을 키운다고?"
+    "content": "🌵 집에서 선인장을 키운다고?",
+    "detail" : "/img/kit/cactus/cactus_detail.jpg"
   },
   {
     "id": 104,
@@ -104,6 +108,7 @@
   ],
     "kind": "timesale",
     "price": 15900,
-    "content": "💚 예쁜화분에 예쁜 꽃키우기"
+    "content": "💚 예쁜화분에 예쁜 꽃키우기",
+    "detail" :"/img/kit/hanaanimal/hanaanimal_detail.jpg"
   }
 ]
