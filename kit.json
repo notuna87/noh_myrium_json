@@ -302,21 +302,21 @@
     "id": 33,
     "title": "우리집 텃밭 홈가드닝 세트",
     "imgUrl": [
-        "/img/kit/handlegarden/handlegarden_01.jpg",
-        "/img/kit/handlegarden/handlegarden_02.jpg",
-        "/img/kit/handlegarden/handlegarden_03.jpg",
-        "/img/kit/handlegarden/handlegarden_04.jpg",
-        "/img/kit/handlegarden/handlegarden_05.jpg",
-        "/img/kit/handlegarden/handlegarden_06.jpg",
-        "/img/kit/handlegarden/handlegarden_07.jpg",
-        "/img/kit/handlegarden/handlegarden_08.jpg",
-        "/img/kit/handlegarden/handlegarden_09.jpg",
-        "/img/kit/handlegarden/handlegarden_10.jpg"
+        "/img/kit/homegardening/homegardening_01.jpg",
+        "/img/kit/homegardening/homegardening_02.jpg",
+        "/img/kit/homegardening/homegardening_03.jpg",
+        "/img/kit/homegardening/homegardening_04.jpg",
+        "/img/kit/homegardening/homegardening_05.jpg",
+        "/img/kit/homegardening/homegardening_06.jpg",
+        "/img/kit/homegardening/homegardening_07.jpg",
+        "/img/kit/homegardening/homegardening_08.jpg",
+        "/img/kit/homegardening/homegardening_09.jpg",
+        "/img/kit/homegardening/homegardening_10.jpg"
 ],
     "kind": "kit",
     "price": 12600,
     "content": "💚 우리집 채소텃밭",
-    "detail" : "/img/kit/handlegarden/handlegarden_detail.jpg"
+    "detail" : "/img/kit/homegardening/homegardening_detail.jpg"
   },
   {
     "id": 34,
