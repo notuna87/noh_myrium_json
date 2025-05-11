@@ -12,7 +12,8 @@
     "kind": "timesale",
     "price": 5900,
     "content": "🤎 나무로 만들어진 친환경 화분",
-    "detail" : "/img/gardening/flowerpot/flowerpot_detail.jpg"
+    "detail" : "/img/gardening/flowerpot/flowerpot_detail.jpg",
+    "discount" : 10
 
   },
   {
@@ -33,7 +34,8 @@
     "kind": "timesale",
     "price": 10600,
     "content": "🌿 상추, 방울토마토 키우기 키트",
-    "detail" : "/img/kit/vegetablegarden/vegetablegarden_detail.jpg"
+    "detail" : "/img/kit/vegetablegarden/vegetablegarden_detail.jpg",
+    "discount" : 10
   },
   {
     "id": 101,
@@ -53,7 +55,8 @@
     "kind": "timesale",
     "price": 22800,
     "content": "💚 토분+씨앗+배양토+이름표+분무기",
-    "detail" : "/img/kit/basiltomato/basiltomato_detail.jpg"
+    "detail" : "/img/kit/basiltomato/basiltomato_detail.jpg",
+    "discount" : 10
   },
   {
     "id": 102,
@@ -73,7 +76,8 @@
     "kind": "timesale",
     "price": 13800,
     "content": "💛 사계절 키우기 좋은 콩나물",
-    "detail" : "/img/kit/beansprouts/beansprouts_detail.jpg"
+    "detail" : "/img/kit/beansprouts/beansprouts_detail.jpg",
+    "discount" : 10
   },
   {
     "id": 103,
@@ -89,7 +93,8 @@
     "kind": "timesale",
     "price": 10900,
     "content": "🌵 집에서 선인장을 키운다고?",
-    "detail" : "/img/kit/cactus/cactus_detail.jpg"
+    "detail" : "/img/kit/cactus/cactus_detail.jpg",
+    "discount" : 10
   },
   {
     "id": 104,
@@ -109,6 +114,7 @@
     "kind": "timesale",
     "price": 15900,
     "content": "💚 예쁜화분에 예쁜 꽃키우기",
-    "detail" :"/img/kit/hanaanimal/hanaanimal_detail.jpg"
+    "detail" :"/img/kit/hanaanimal/hanaanimal_detail.jpg",
+    "discount" : 10
   }
 ]
