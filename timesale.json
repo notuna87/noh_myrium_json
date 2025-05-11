@@ -3,112 +3,112 @@
     "id": 99,
     "title": "마이리움 화분 리움팟 국산 친환경 분갈이 화분",
     "imgUrl": [
-      "/img/gardening/flowerpot/flowerpot_01.jpg",
-      "/img/gardening/flowerpot/flowerpot_02.jpg",
-      "/img/gardening/flowerpot/flowerpot_03.jpg",
-      "/img/gardening/flowerpot/flowerpot_04.jpg",
-      "/img/gardening/flowerpot/flowerpot_05.jpg"
+      "img/gardening/flowerpot/flowerpot_01.jpg",
+      "img/gardening/flowerpot/flowerpot_02.jpg",
+      "img/gardening/flowerpot/flowerpot_03.jpg",
+      "img/gardening/flowerpot/flowerpot_04.jpg",
+      "img/gardening/flowerpot/flowerpot_05.jpg"
   ],
     "kind": "timesale",
     "price": 5900,
     "content": "🤎 나무로 만들어진 친환경 화분",
-    "detail" : "/img/gardening/flowerpot/flowerpot_detail.jpg"
+    "detail" : "img/gardening/flowerpot/flowerpot_detail.jpg"
 
   },
   {
     "id": 100,
     "title": "방울토마토 상추 씨앗 키우기 텃밭키트",
     "imgUrl": [
-      "/img/kit/vegetablegarden/vegetablegarden_01.jpg",
-      "/img/kit/vegetablegarden/vegetablegarden_02.jpg",
-      "/img/kit/vegetablegarden/vegetablegarden_03.jpg",
-      "/img/kit/vegetablegarden/vegetablegarden_04.jpg",
-      "/img/kit/vegetablegarden/vegetablegarden_05.jpg",
-      "/img/kit/vegetablegarden/vegetablegarden_06.jpg",
-      "/img/kit/vegetablegarden/vegetablegarden_07.jpg",
-      "/img/kit/vegetablegarden/vegetablegarden_08.jpg",
-      "/img/kit/vegetablegarden/vegetablegarden_09.jpg",
-      "/img/kit/vegetablegarden/vegetablegarden_10.jpg"
+      "img/kit/vegetablegarden/vegetablegarden_01.jpg",
+      "img/kit/vegetablegarden/vegetablegarden_02.jpg",
+      "img/kit/vegetablegarden/vegetablegarden_03.jpg",
+      "img/kit/vegetablegarden/vegetablegarden_04.jpg",
+      "img/kit/vegetablegarden/vegetablegarden_05.jpg",
+      "img/kit/vegetablegarden/vegetablegarden_06.jpg",
+      "img/kit/vegetablegarden/vegetablegarden_07.jpg",
+      "img/kit/vegetablegarden/vegetablegarden_08.jpg",
+      "img/kit/vegetablegarden/vegetablegarden_09.jpg",
+      "img/kit/vegetablegarden/vegetablegarden_10.jpg"
   ],
     "kind": "timesale",
     "price": 10600,
     "content": "🌿 상추, 방울토마토 키우기 키트",
-    "detail" : "/img/kit/vegetablegarden/vegetablegarden_detail.jpg"
+    "detail" : "img/kit/vegetablegarden/vegetablegarden_detail.jpg"
   },
   {
     "id": 101,
     "title": "바질 방울토마토 씨앗 홈가드닝 키트",
     "imgUrl": [
-      "/img/kit/basiltomato/basiltomato_01.jpg",
-      "/img/kit/basiltomato/basiltomato_02.jpg",
-      "/img/kit/basiltomato/basiltomato_03.jpg",
-      "/img/kit/basiltomato/basiltomato_04.jpg",
-      "/img/kit/basiltomato/basiltomato_05.jpg",
-      "/img/kit/basiltomato/basiltomato_06.jpg",
-      "/img/kit/basiltomato/basiltomato_07.jpg",
-      "/img/kit/basiltomato/basiltomato_08.jpg",
-      "/img/kit/basiltomato/basiltomato_09.jpg",
-      "/img/kit/basiltomato/basiltomato_10.jpg"
+      "img/kit/basiltomato/basiltomato_01.jpg",
+      "img/kit/basiltomato/basiltomato_02.jpg",
+      "img/kit/basiltomato/basiltomato_03.jpg",
+      "img/kit/basiltomato/basiltomato_04.jpg",
+      "img/kit/basiltomato/basiltomato_05.jpg",
+      "img/kit/basiltomato/basiltomato_06.jpg",
+      "img/kit/basiltomato/basiltomato_07.jpg",
+      "img/kit/basiltomato/basiltomato_08.jpg",
+      "img/kit/basiltomato/basiltomato_09.jpg",
+      "img/kit/basiltomato/basiltomato_10.jpg"
   ],
     "kind": "timesale",
     "price": 22800,
     "content": "💚 토분+씨앗+배양토+이름표+분무기",
-    "detail" : "/img/kit/basiltomato/basiltomato_detail.jpg"
+    "detail" : "img/kit/basiltomato/basiltomato_detail.jpg"
   },
   {
     "id": 102,
     "title": "마이리움 콩나물재배기 + 콩나물콩100g",
     "imgUrl": [
-      "/img/kit/beansprouts/beansprouts_01.jpg",
-      "/img/kit/beansprouts/beansprouts_02.jpg",
-      "/img/kit/beansprouts/beansprouts_03.jpg",
-      "/img/kit/beansprouts/beansprouts_04.jpg",
-      "/img/kit/beansprouts/beansprouts_05.jpg",
-      "/img/kit/beansprouts/beansprouts_06.jpg",
-      "/img/kit/beansprouts/beansprouts_07.jpg",
-      "/img/kit/beansprouts/beansprouts_08.jpg",
-      "/img/kit/beansprouts/beansprouts_09.jpg",
-      "/img/kit/beansprouts/beansprouts_10.jpg"
+      "img/kit/beansprouts/beansprouts_01.jpg",
+      "img/kit/beansprouts/beansprouts_02.jpg",
+      "img/kit/beansprouts/beansprouts_03.jpg",
+      "img/kit/beansprouts/beansprouts_04.jpg",
+      "img/kit/beansprouts/beansprouts_05.jpg",
+      "img/kit/beansprouts/beansprouts_06.jpg",
+      "img/kit/beansprouts/beansprouts_07.jpg",
+      "img/kit/beansprouts/beansprouts_08.jpg",
+      "img/kit/beansprouts/beansprouts_09.jpg",
+      "img/kit/beansprouts/beansprouts_10.jpg"
   ],
     "kind": "timesale",
     "price": 13800,
     "content": "💛 사계절 키우기 좋은 콩나물",
-    "detail" : "/img/kit/beansprouts/beansprouts_detail.jpg"
+    "detail" : "img/kit/beansprouts/beansprouts_detail.jpg"
   },
   {
     "id": 103,
     "title": "선인장 씨앗 키우기 칵투스",
     "imgUrl": [
-      "/img/kit/cactus/cactus_01.jpg",
-      "/img/kit/cactus/cactus_02.jpg",
-      "/img/kit/cactus/cactus_03.jpg",
-      "/img/kit/cactus/cactus_04.jpg",
-      "/img/kit/cactus/cactus_05.jpg",
-      "/img/kit/cactus/cactus_06.jpg"
+      "img/kit/cactus/cactus_01.jpg",
+      "img/kit/cactus/cactus_02.jpg",
+      "img/kit/cactus/cactus_03.jpg",
+      "img/kit/cactus/cactus_04.jpg",
+      "img/kit/cactus/cactus_05.jpg",
+      "img/kit/cactus/cactus_06.jpg"
   ],
     "kind": "timesale",
     "price": 10900,
     "content": "🌵 집에서 선인장을 키운다고?",
-    "detail" : "/img/kit/cactus/cactus_detail.jpg"
+    "detail" : "img/kit/cactus/cactus_detail.jpg"
   },
   {
     "id": 104,
     "title": "미니딸기 미니장미 비올라 키우기 하나애니멀",
     "imgUrl": [
-      "/img/kit/hanaanimal/hanaanimal_01.jpg",
-      "/img/kit/hanaanimal/hanaanimal_02.jpg",
-      "/img/kit/hanaanimal/hanaanimal_03.jpg",
-      "/img/kit/hanaanimal/hanaanimal_04.jpg",
-      "/img/kit/hanaanimal/hanaanimal_05.jpg",
-      "/img/kit/hanaanimal/hanaanimal_06.jpg",
-      "/img/kit/hanaanimal/hanaanimal_07.jpg",
-      "/img/kit/hanaanimal/hanaanimal_08.jpg",
-      "/img/kit/hanaanimal/hanaanimal_09.jpg",
-      "/img/kit/hanaanimal/hanaanimal_10.jpg"
+      "img/kit/hanaanimal/hanaanimal_01.jpg",
+      "img/kit/hanaanimal/hanaanimal_02.jpg",
+      "img/kit/hanaanimal/hanaanimal_03.jpg",
+      "img/kit/hanaanimal/hanaanimal_04.jpg",
+      "img/kit/hanaanimal/hanaanimal_05.jpg",
+      "img/kit/hanaanimal/hanaanimal_06.jpg",
+      "img/kit/hanaanimal/hanaanimal_07.jpg",
+      "img/kit/hanaanimal/hanaanimal_08.jpg",
+      "img/kit/hanaanimal/hanaanimal_09.jpg",
+      "img/kit/hanaanimal/hanaanimal_10.jpg"
   ],
     "kind": "timesale",
     "price": 15900,
     "content": "💚 예쁜화분에 예쁜 꽃키우기",
-    "detail" :"/img/kit/hanaanimal/hanaanimal_detail.jpg"
+    "detail" :"img/kit/hanaanimal/hanaanimal_detail.jpg"
   }
 ]
