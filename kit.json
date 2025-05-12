@@ -1,6 +1,6 @@
 [
   {
-    "id": 18,
+    "id": 1,
     "title": "친환경식물키트 에코컵 씨드볼 키우기",
     "imgUrl": [
       "/img/kit/seedball/seedball_01.jpg",
@@ -20,7 +20,7 @@
     "discount" : 10
   },
   {
-    "id": 19,
+    "id": 2,
     "title": "마이리움 어린이집 식목일키트 씨앗키우기 마이가든",
     "imgUrl": [
         "/img/kit/mygarden/mygarden_01.jpg",
@@ -44,7 +44,7 @@
     "discount" : 10
   },
   {
-    "id": 20,
+    "id": 3,
     "title": "방울토마토 상추 씨앗 키우기 텃밭키트",
     "imgUrl": [
         "/img/kit/vegetablegarden/vegetablegarden_01.jpg",
@@ -65,7 +65,7 @@
     "discount" : 10
   },
   {
-    "id": 21,
+    "id": 4,
     "title": "방울토마토 해바라기 봉선화 바질 강낭콩 씨앗키트 저면관수",
     "imgUrl": [
         "/img/kit/bottomirrigation/bottomirrigation_01.jpg",
@@ -86,7 +86,7 @@
     "discount" : 10
   },
   {
-    "id": 22,
+    "id": 5,
     "title": "바질 방울토마토 씨앗 홈가드닝 키트",
     "imgUrl": [
         "/img/kit/basiltomato/basiltomato_01.jpg",
@@ -107,7 +107,7 @@
     "discount" : 10
   },
   {
-    "id": 23,
+    "id": 6,
     "title": "방울토마토 바질 해바라기 씨앗 키우기 1+1",
     "imgUrl": [
         "/img/kit/growingseeds/growingseeds_01.jpg",
@@ -128,7 +128,7 @@
     "discount" : 10
   },
   {
-    "id": 24,
+    "id": 7,
     "title": "미미 식물키트",
     "imgUrl": [
         "/img/kit/mimi/mimi_01.jpg",
@@ -149,7 +149,7 @@
     "discount" : 10
   },
   {
-    "id": 25,
+    "id": 8,
     "title": "고수 바질 루꼴라 모둠쌈 래디시 쑥갓 부추 모둠쌈 키친가든",
     "imgUrl": [
         "/img/kit/ssam/ssam_01.jpg",
@@ -169,7 +169,7 @@
     "discount" : 10
   },
   {
-    "id": 26,
+    "id": 9,
     "title": "[팜팜농장] 집에서 씨앗재배 모종만들기 식물키트",
     "imgUrl": [
         "/img/kit/makingseedlings/makingseedlings_01.jpg",
@@ -190,7 +190,7 @@
     "discount" : 10
   },
   {
-    "id": 27,
+    "id": 10,
     "title": "고수 미니당근 시금치 키우기 그로우스프",
     "imgUrl":[
         "/img/kit/growsoup/growsoup_01.jpg",
@@ -211,7 +211,7 @@
     "discount" : 10
   },
   {
-    "id": 28,
+    "id": 11,
     "title": "선인장 씨앗 키우기 칵투스",
     "imgUrl": [
         "/img/kit/cactus/cactus_01.jpg",
@@ -228,7 +228,7 @@
     "discount" : 10
   },
   {
-    "id": 29,
+    "id": 12,
     "title": "그림종이봉투 해바라기 봉선화 방울토마토 나팔꽃 패랭이꽃 씨드볼",
     "imgUrl": [
         "/img/kit/picturepaperbag/picturepaperbag_01.jpg",
@@ -248,7 +248,7 @@
     "discount" : 10
   },
   {
-    "id": 30,
+    "id": 13,
     "title": "방울토마토 바질 해바라기 강낭콩 씨앗 키우기 손잡이가든",
     "imgUrl": [
         "/img/kit/handlegarden/handlegarden_01.jpg",
@@ -272,7 +272,7 @@
     "discount" : 10
   },
   {
-    "id": 31,
+    "id": 14,
     "title": "마이리움 허브 레몬밤 씨앗 키우기",
     "imgUrl": [
         "/img/kit/lemonbalm/lemonbalm_01.jpg",
@@ -293,7 +293,7 @@
     "discount" : 10
   },
   {
-    "id": 32,
+    "id": 15,
     "title": "아이들과 씨앗으로 모종키우기 팜팜농장 1개+1개",
     "imgUrl": [
         "/img/kit/makingseedlings/makingseedlings_01.jpg",
@@ -314,7 +314,7 @@
     "discount" : 10
   },
   {
-    "id": 33,
+    "id": 16,
     "title": "우리집 텃밭 홈가드닝 세트",
     "imgUrl": [
         "/img/kit/homegardening/homegardening_01.jpg",
@@ -335,7 +335,7 @@
     "discount" : 10
   },
   {
-    "id": 34,
+    "id": 17,
     "title": "집에서 키우는 마이리움 꽃씨키트 꽃집사",
     "imgUrl": [
         "/img/kit/florist/florist_01.jpg",
@@ -356,7 +356,7 @@
     "discount" : 10
   },
   {
-    "id": 35,
+    "id": 18,
     "title": "마이리움 콩나물재배기 + 콩나물콩100g",
     "imgUrl": [
         "/img/kit/beansprouts/beansprouts_01.jpg",
@@ -377,7 +377,7 @@
     "discount" : 10
   },
   {
-    "id": 36,
+    "id": 19,
     "title": "미니딸기 미니장미 비올라 키우기 하나애니멀",
     "imgUrl": [
         "/img/kit/hanaanimal/hanaanimal_01.jpg",
@@ -398,7 +398,7 @@
     "discount" : 10
   },
   {
-    "id": 37,
+    "id": 20,
     "title": "집에서 식물키우기 씨앗키트 투톤사각화분",
     "imgUrl": [
         "/img/kit/squarepot/squarepot_01.jpg",
@@ -419,7 +419,7 @@
     "discount" : 10
   },
   {
-    "id": 38,
+    "id": 21,
     "title": "크리스마스선물 세잎클로버 미니딸기 키트 츄폰",
     "imgUrl": [
         "/img/kit/ministraberry/ministraberry_01.jpg",

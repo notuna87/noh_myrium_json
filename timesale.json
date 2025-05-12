@@ -1,6 +1,6 @@
 [
   {
-    "id": 99,
+    "id": 22,
     "title": "마이리움 화분 리움팟 국산 친환경 분갈이 화분",
     "imgUrl": [
       "/img/gardening/flowerpot/flowerpot_01.jpg",
@@ -17,7 +17,7 @@
 
   },
   {
-    "id": 100,
+    "id": 23,
     "title": "방울토마토 상추 씨앗 키우기 텃밭키트",
     "imgUrl": [
       "/img/kit/vegetablegarden/vegetablegarden_01.jpg",
@@ -38,7 +38,7 @@
     "discount" : 10
   },
   {
-    "id": 101,
+    "id": 24,
     "title": "바질 방울토마토 씨앗 홈가드닝 키트",
     "imgUrl": [
       "/img/kit/basiltomato/basiltomato_01.jpg",
@@ -59,7 +59,7 @@
     "discount" : 10
   },
   {
-    "id": 102,
+    "id": 25,
     "title": "마이리움 콩나물재배기 + 콩나물콩100g",
     "imgUrl": [
       "/img/kit/beansprouts/beansprouts_01.jpg",
@@ -80,7 +80,7 @@
     "discount" : 10
   },
   {
-    "id": 103,
+    "id": 26,
     "title": "선인장 씨앗 키우기 칵투스",
     "imgUrl": [
       "/img/kit/cactus/cactus_01.jpg",
@@ -97,7 +97,7 @@
     "discount" : 10
   },
   {
-    "id": 104,
+    "id": 27,
     "title": "미니딸기 미니장미 비올라 키우기 하나애니멀",
     "imgUrl": [
       "/img/kit/hanaanimal/hanaanimal_01.jpg",
