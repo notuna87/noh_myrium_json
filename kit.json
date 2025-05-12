@@ -16,7 +16,7 @@
     "kind": "kit",
     "price": 5600,
     "content": "🌱 집에서 키우는 씨드볼 키트",
-    "detail" : "img/kit/seedball/seedball_detail.jpg",
+    "detail" : "img/kit/seedball/seedball_detail.JPG",
     "discount" : 10
   },
   {
@@ -40,7 +40,7 @@
     "kind": "kit",
     "price": 5200,
     "content": "💖 방울토마토 바질 강낭콩 해바라기 봉선화",
-    "detail" :"img/kit/mygarden/mygarden_detail.jpg",
+    "detail" :"img/kit/mygarden/mygarden_detail.JPG",
     "discount" : 10
   },
   {
@@ -61,7 +61,7 @@
     "kind": "kit",
     "price": 10600,
     "content": "🌿 상추, 방울토마토 키우기 키트",
-    "detail" : "img/kit/vegetablegarden/vegetablegarden_detail.jpg",
+    "detail" : "img/kit/vegetablegarden/vegetablegarden_detail.JPG",
     "discount" : 10
   },
   {
@@ -82,7 +82,7 @@
     "kind": "kit",
     "price": 6000,
     "content": "🌱 식목일 저면관수 재배키트",
-    "detail" : "img/kit/bottomirrigation/bottomirrigation_detail.jpg",
+    "detail" : "img/kit/bottomirrigation/bottomirrigation_detail.JPG",
     "discount" : 10
   },
   {
@@ -103,7 +103,7 @@
     "kind": "kit",
     "price": 22800,
     "content": "💚 토분+씨앗+배양토+이름표+분무기",
-    "detail" : "img/kit/basiltomato/basiltomato_detail.jpg",
+    "detail" : "img/kit/basiltomato/basiltomato_detail.JPG",
     "discount" : 10
   },
   {
@@ -124,7 +124,7 @@
     "kind": "kit",
     "price": 11600,
     "content": "",
-    "detail" : "img/kit/growingseeds/growingseeds_detail.jpg",
+    "detail" : "img/kit/growingseeds/growingseeds_detail.JPG",
     "discount" : 10
   },
   {
@@ -145,7 +145,7 @@
     "kind": "kit",
     "price": 5500,
     "content": "",
-    "detail" : "img/kit/mimi/mimi_detail.jpg",
+    "detail" : "img/kit/mimi/mimi_detail.JPG",
     "discount" : 10
   },
   {
@@ -165,7 +165,7 @@
     "kind": "kit",
     "price": 12800,
     "content": "💚 내손으로 키우는 채소키트",
-    "detail" : "img/kit/ssam/ssam_detail.jpg",
+    "detail" : "img/kit/ssam/ssam_detail.JPG",
     "discount" : 10
   },
   {
@@ -186,7 +186,7 @@
     "kind": "kit",
     "price": 6000,
     "content": "💛 내가키워 내가먹는 채소키트",
-    "detail" : "img/kit/makingseedlings/makingseedlings_detail.jpg",
+    "detail" : "img/kit/makingseedlings/makingseedlings_detail.JPG",
     "discount" : 10
   },
   {
@@ -207,7 +207,7 @@
     "kind": "kit",
     "price": 7800,
     "content": "⭐ 당근, 쪽파, 고수, 시금치 씨앗 키트",
-    "detail" : "img/kit/growsoup/growsoup_detail.jpg",
+    "detail" : "img/kit/growsoup/growsoup_detail.JPG",
     "discount" : 10
   },
   {
@@ -224,7 +224,7 @@
     "kind": "kit",
     "price": 10900,
     "content": "🌵 집에서 선인장을 키운다고?",
-    "detail" : "img/kit/cactus/cactus_detail.jpg",
+    "detail" : "img/kit/cactus/cactus_detail.JPG",
     "discount" : 10
   },
   {
@@ -244,7 +244,7 @@
     "kind": "kit",
     "price": 3300,
     "content": "",
-    "detail" : "img/kit/picturepaperbag/picturepaperbag_detail.jpg",
+    "detail" : "img/kit/picturepaperbag/picturepaperbag_detail.JPG",
     "discount" : 10
   },
   {
@@ -268,7 +268,7 @@
     "kind": "kit",
     "price": 6100,
     "content": "💚 마이리움 손잡이가든",
-    "detail" : "img/kit/handlegarden/handlegarden_detail.jpg",
+    "detail" : "img/kit/handlegarden/handlegarden_detail.JPG",
     "discount" : 10
   },
   {
@@ -289,7 +289,7 @@
     "kind": "kit",
     "price": 8900,
     "content": "💚 집에서 키우는 허브",
-    "detail" : "img/kit/lemonbalm/lemonbalm_detail.jpg",
+    "detail" : "img/kit/lemonbalm/lemonbalm_detail.JPG",
     "discount" : 10
   },
   {
@@ -310,7 +310,7 @@
     "kind": "kit",
     "price": 12400,
     "content": "💚 1+1 식물키트",
-    "detail" : "img/kit/makingseedlings/makingseedlings_detail.jpg",
+    "detail" : "img/kit/makingseedlings/makingseedlings_detail.JPG",
     "discount" : 10
   },
   {
@@ -331,7 +331,7 @@
     "kind": "kit",
     "price": 12600,
     "content": "💚 우리집 채소텃밭",
-    "detail" : "img/kit/homegardening/homegardening_detail.jpg",
+    "detail" : "img/kit/homegardening/homegardening_detail.JPG",
     "discount" : 10
   },
   {
@@ -352,7 +352,7 @@
     "kind": "kit",
     "price": 8800,
     "content": "💛 집에서 키우는 꽃씨 키트",
-    "detail" : "img/kit/florist/florist_detail.jpg",
+    "detail" : "img/kit/florist/florist_detail.JPG",
     "discount" : 10
   },
   {
@@ -373,7 +373,7 @@
     "kind": "kit",
     "price": 13800,
     "content": "💛 사계절 키우기 좋은 콩나물",
-    "detail" : "img/kit/beansprouts/beansprouts_detail.jpg",
+    "detail" : "img/kit/beansprouts/beansprouts_detail.JPG",
     "discount" : 10
   },
   {
@@ -394,7 +394,7 @@
     "kind": "kit",
     "price": 15900,
     "content": "💚 예쁜화분에 예쁜 꽃키우기",
-    "detail" : "img/kit/hanaanimal/hanaanimal_detail.jpg",
+    "detail" : "img/kit/hanaanimal/hanaanimal_detail.JPG",
     "discount" : 10
   },
   {
@@ -415,7 +415,7 @@
     "kind": "kit",
     "price": 7000,
     "content": "🍅 당일출고 🌻",
-    "detail" : "img/kit/squarepot/squarepot_detail.jpg",
+    "detail" : "img/kit/squarepot/squarepot_detail.JPG",
     "discount" : 10
   },
   {
@@ -436,7 +436,7 @@
     "kind": "kit",
     "price": 15800,
     "content": "✨ 친구, 연인 선물 추천!",
-    "detail" : "img/kit/ministraberry/ministraberry_detail.jpg",
+    "detail" : "img/kit/ministraberry/ministraberry_detail.JPG",
     "discount" : 10
   }
 ]
